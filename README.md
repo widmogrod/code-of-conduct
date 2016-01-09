@@ -12,6 +12,10 @@ WIP
 - reinwent the wheel 
 - les abstractions
 - perfection is possible thrugh iteratinion, but never in one perfect step
+- prototype, iterate and have fun
+- learn new stuff
+- chellange your self
+
 
 What I wont do
 - create a software that solve the problem, but 
